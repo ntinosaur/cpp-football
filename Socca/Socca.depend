@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1461881658 source:d:\ultra desktop\new folder\ball.cpp
+	"ball.h"
+
+1461937797 d:\ultra desktop\new folder\ball.h
+	"player.h"
+
+1461937941 d:\ultra desktop\new folder\player.h
+
+1461934915 source:d:\ultra desktop\new folder\game.cpp
+	"game.h"
+	<stdlib.h>
+
+1461937797 d:\ultra desktop\new folder\game.h
+	"ball.h"
+	"team.h"
+
+1461946349 d:\ultra desktop\new folder\team.h
+	<string>
+
+1461946546 source:d:\ultra desktop\new folder\team.cpp
+	"player.h"
+	"team.h"
+	<stdlib.h>
+
+1461947207 source:d:\ultra desktop\new folder\player.cpp
+	<iostream>
+	"ball.h"
+	"player.h"
+	<stdlib.h>
+
+1462881700 source:d:\ultra desktop\socca\ball.cpp
+	<iostream>
+	"ball.h"
+
+1462525096 d:\ultra desktop\socca\ball.h
+	"player.h"
+	"field.h"
+
+1462883232 d:\ultra desktop\socca\player.h
+	<string>
+	"team.h"
+
+1462885646 source:d:\ultra desktop\socca\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+	<ctime>
+	"player.h"
+	"team.h"
+	"ball.h"
+	"game.h"
+	"field.h"
+
+1462879233 d:\ultra desktop\socca\team.h
+	<string>
+
+1462879255 d:\ultra desktop\socca\game.h
+	"ball.h"
+	"team.h"
+
+1462879224 source:d:\ultra desktop\socca\game.cpp
+	"game.h"
+	<stdlib.h>
+	<string>
+
+1462883983 source:d:\ultra desktop\socca\player.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"ball.h"
+	"player.h"
+	<string>
+	<stdlib.h>
+
+1462887073 source:d:\ultra desktop\socca\team.cpp
+	<iostream>
+	"player.h"
+	"team.h"
+	<stdlib.h>
+	<string>
+
+1462883937 source:d:\ultra desktop\socca\field.cpp
+	"field.h"
+	<iostream>
+	"ball.h"
+
+1462878686 d:\ultra desktop\socca\field.h
+	"player.h"
+
